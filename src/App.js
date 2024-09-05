@@ -86,7 +86,7 @@
 // }
 // export default App;
 
-// page 22 23
+// page 22-27 lists in react
 import * as react from 'react';
 const list = [
   {
